@@ -52,50 +52,6 @@ nav ul li a {
 .service {
     margin-bottom: 15px;
 }
-
-.services {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-    text-align: center;
-}
-
-.subtitle {
-    color: #777;
-    margin-bottom: 20px;
-    text-align: center;
-}
-
-.services .service {
-    background-color: #f4f4f4;
-    padding: 20px;
-    margin: 10px;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    flex: 1;
-}
-
-.services .service h4 {
-    font-size: 1.5em;
-    margin-bottom: 10px;
-}
-
-.services .service p {
-    font-size: 1em;
-    line-height: 1.6;
-}
-
-/* Layout de 3 colunas para os cards */
-.services {
-    display: flex;
-    justify-content: space-between;
-}
-
-.service {
-    width: 30%; /* Cada card ocupa 30% do espaço */
-}
-
-
 footer {
     background-color: #333;
     color: #fff;
